@@ -1,0 +1,9 @@
+/build/
+/dist/
+*.zip
+*.log
+*.exit.txt
+__pycache__/
+.vs/
+.vscode/
+CMakeUserPresets.json

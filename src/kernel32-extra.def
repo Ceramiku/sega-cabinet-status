@@ -1,0 +1,4 @@
+LIBRARY kernel32.dll
+EXPORTS
+Module32FirstW
+Module32NextW

@@ -1,0 +1,18 @@
+LIBRARY ws2_32.dll
+EXPORTS
+WSAStartup
+WSAGetLastError
+WSASetLastError
+socket
+bind
+listen
+accept
+select
+setsockopt
+closesocket
+recv
+send
+WSASend
+htons
+inet_addr
+connect
